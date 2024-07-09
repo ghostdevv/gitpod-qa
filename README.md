@@ -1,3 +1,4 @@
+#sudo su 
 # Gitpod Question Answering
 
 Uses the GPT LLM to answer questions about Gitpod!
